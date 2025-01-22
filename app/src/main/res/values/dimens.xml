@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_text">16sp</dimen>
+    <dimen name="large_text">18sp</dimen>
+
+    <dimen name="button_margin_top">16dp</dimen>
+    <dimen name="button_min_width">120dp</dimen>
+
+    <dimen name="wide_layout_margin_top">16dp</dimen>
+    <dimen name="layout_margin_top">8dp</dimen>
+    <dimen name="layout_margin_left">10dp</dimen>
+    <dimen name="layout_margin_right">10dp</dimen>
+    <dimen name="form_min_height">48dp</dimen>
+    <dimen name="form_layout_width">0dp</dimen>
+    <dimen name="layout_padding">16dp</dimen>
+
+    <dimen name="image_button_width">50dp</dimen>
+    <dimen name="image_button_margin">16dp</dimen>
+
+    <dimen name="text_margin_top">20dp</dimen>
+    <dimen name="text_margin_bottom">20dp</dimen>
+
+    <dimen name="col_padding">10dp</dimen>
+
+</resources>

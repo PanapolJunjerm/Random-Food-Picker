@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">เลือกอาหาร</string>
+    <string name="high">สูง</string>
+    <string name="medium">กลาง</string>
+    <string name="low">ต่ำ</string>
+    <string name="setting">ตั้งค่า</string>
+    <string name="enter_item">ใส่รายการ</string>
+    <string name="ok">ตกลง</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="add_toast">คุณเพิ่ม: </string>
+
+    <string name="speed_up">เพิ่มความเร็ว</string>
+    <string name="speed_down">ลดความเร็ว</string>
+    <string name="duration_up">เพิ่มระยะเวลา</string>
+    <string name="duration_down">ลดระยะเวลา</string>
+
+    <string name="id">ID</string>
+    <string name="title">ไตเติ้ล</string>
+    <string name="status">สถานะ</string>
+    <string name="delete">ลบ</string>
+    <string name="deleted">ลบ</string>
+    <string name="successfully">สำเร็จ</string>
+    <string name="delete_fail">ลบไม่สำเร็จ</string>
+    <string name="rows">รายการ</string>
+    <string name="enter_title_here">ใส่รายการที่นี่</string>
+
+    <string name="active">ใช้งาน</string>
+    <string name="inactive">ไม่ใช้งาน</string>
+
+    <string name="list">รายการ</string>
+    <string name="add">เพิ่ม</string>
+    <string name="item_list">  <b><u>รายการ</u></b>  </string>
+    <string name="home">หน้าหลัก</string>
+    <string name="activate_all">ใช้งานทั้งหมด</string>
+    <string name="deactivate_all">ไม่ใช้งานทั้งหมด</string>
+    <string name="delete_all">ลบทั้งหมด</string>
+</resources>
